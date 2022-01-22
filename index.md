@@ -1,5 +1,8 @@
 ## Welcome to GitHub Pages
 
+![Image](https://github.com/fehann/DVSChallenge2021/blob/25532121e20e9544ee26dc7130133403d9c7e473/Dataviz%20professionals%20v2.2.png)
+
+
 You can use the [editor on GitHub](https://github.com/fehann/DVSChallenge2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
